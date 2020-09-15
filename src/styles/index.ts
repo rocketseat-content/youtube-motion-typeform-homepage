@@ -66,38 +66,3 @@ export const Sticky = styled(motion.div)`
   left: 0;
   right: 0;
 `
-
-export const Header = styled.header`
-  width: 100%;
-  height: 200px;
-  background: rgba(0, 0, 0, 0.1);
-
-  position: fixed;
-  top: 0;
-  z-index: 9999;
-`
-
-export const A = styled.div`
-  .A1 {
-    background: #f5f1ea;
-
-    display: flex;
-    align-items: flex-end;
-  }
-`
-
-export const B = styled.div`
-  background: #ffffff;
-`
-
-export const C = styled.div`
-  background: green;
-`
-
-export const D = styled.div`
-  background: blue;
-`
-
-export const E = styled.div`
-  background: yellow;
-`
